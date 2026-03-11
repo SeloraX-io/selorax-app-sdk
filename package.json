@@ -1,0 +1,19 @@
+{
+  "name": "selorax-app-sdk",
+  "version": "2.0.1",
+  "description": "SDK for building apps on the SeloraX platform — session auth, platform API client, webhook verification",
+  "main": "index.js",
+  "keywords": ["selorax", "ecommerce", "app-sdk", "oauth", "webhooks"],
+  "author": "zaynmiraj",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeloraX-io/selorax-app-boilerplate"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "peerDependencies": {
+    "express": "^4.0.0 || ^5.0.0"
+  }
+}
