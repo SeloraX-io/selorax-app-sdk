@@ -1,6 +1,6 @@
 {
   "name": "@selorax/app-sdk",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "SDK for building apps on the SeloraX platform — session auth, platform API client, webhook verification",
   "main": "index.js",
   "keywords": ["selorax", "ecommerce", "app-sdk", "oauth", "webhooks"],
